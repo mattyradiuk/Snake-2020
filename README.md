@@ -1,6 +1,6 @@
-# Matt's Battlesnake 2020 (js)
+# Matt's Battlesnake 2020 (nodeJS)
 
-A not so simple [Battlesnake AI](https://battlesnake.io) written in Javascript using NodeJS.
+A not so simple [Battlesnake AI](https://battlesnake.io) written in Javascript.
 
 To get started you'll need a working NodeJS development environment, and at least read the Heroku docs on [deploying a NodeJS app](https://devcenter.heroku.com/articles/getting-started-with-nodejs).
 
