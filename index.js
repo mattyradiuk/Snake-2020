@@ -39,6 +39,14 @@ app.post('/move', (request, response) => {
 
   // Response data
   const data = {
+    for(i = 0; i < 10000; i++) {
+      if(i%2 == TRUE){
+        move: 'left',
+      }
+        else {
+         move: 'up', 
+        }
+    }
     move: 'up', // one of: ['up','down','left','right']
   }
 
